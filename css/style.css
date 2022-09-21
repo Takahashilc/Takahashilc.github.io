@@ -44,6 +44,13 @@ h2 {
     display: flex;
 }
 
+.fa-linkedin {
+    padding-right: 10px;
+}
+.fa-github {
+    padding-right: 10px;
+}
+
 .social-media a {
     text-decoration: none;
     color: #ffffff;
@@ -242,7 +249,10 @@ a:hover {
     font-family: sans-serif;
     letter-spacing: 1px;
     color: rgb(109, 109, 109);
+    text-align: justify;
+    font-size: 18px;
 }
+
 
 .card-wrapper {
     text-align: center;
